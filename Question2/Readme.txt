@@ -1,0 +1,1 @@
+Powershell code to retrieve Azure VM data
